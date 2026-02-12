@@ -12,7 +12,7 @@ Je ne détaillerais donc pas l'utilisation du logiciel MS Keyboard Layout Creato
 - [2. Méthode à suivre](#2-méthode-à-suivre)
   - [2.1. SharpKeys](#21-sharpkeys)
   - [2.2. Layout de clavier Apple FR AZERTY](#22-layout-de-clavier-apple-fr-azerty)
-    - [2.2.1 Installer le pilote clavier avec BootCamp (long)](#221-installer-le-pilote-clavier-avec-bootcamp-long)
+    - [2.2.1 Installer le pilote clavier avec BootCamp (long) ⚠️ Déprécié ⚠️](#221-installer-le-pilote-clavier-avec-bootcamp-long)
     - [2.2.2 Utiliser un layout Apple FR AZERTY (original ou modifié)](#222-utiliser-un-layout-apple-fr-azerty-original-ou-modifié)
   - [2.3. Utilisation de SharpKeys pour modifier certaines affectations de touches](#23-utilisation-de-sharpkeys-pour-modifier-certaines-affectations-de-touches)
   - [3. Fin](#3-fin)
@@ -45,7 +45,12 @@ Si vous avez une alternative fonctionnelle, n'hésitez pas à la proposer.
 Comme il s'agit d'un clavier "for Mac", il faudra également installer un layout Apple FR AZERTY.
 Il y a plusieurs méthodes pour y parvenir.
 
-### 2.2.1 Installer le pilote clavier avec BootCamp (long)
+### 2.2.1 Installer le pilote clavier avec BootCamp (long) ⚠️ Déprécié ⚠️
+
+> [!CAUTION]
+> Cette méthode présente des risques pour votre système (voir #1 ) aussi, je vous conseille de faire un point de restauration et/ou une sauvegarde auparavent.
+> De plus, je déconseille cette méthode, que je jugeais déjà lourde auparavent, et que je n'ai pas testé maintenant avec les dernières version de windows, car je n'utilise plus vraiment windows.
+> Je vous conseille donc fortement de passer au §2.2.2 ci-après.
 
 Partir de zéro en installant les pilotes du clavier Apple avec BootCamp, c'est un peu long, car faut télécharger bootcamp... <br/>
 Je ne vais pas trop détailler mais voilà succinctement les étapes :
